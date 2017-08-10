@@ -2,16 +2,21 @@
   <head>
   </head>
   <body>
+    <header>
     <h1>Sam's Garden</h1>
-    
-    <img src="http://backyardriches.com/wp-content/uploads/2016/01/Basics-for-Planting-a-Vegetable-Garden.jpg" alt="Image of Garden"/>
+    <img src="http://backyardriches.com/wp-content/uploads/2016/01/Basics-for-Planting-a-Vegetable-Garden.jpg" alt="Image of Garden" height="200" width="150"/>
     <h3>Prime Digital Academy Workshop</h3>
-    
-    <h4>Veggie List</h4>
-    <ul>
-      <li>Tomatoes</li>
-      <li>Peppers</li>
-      <li>Spinach</li>
-    </ul>
-  </body>
+    </header>
+   <article>
+    <h4> Veggies List</h4>
+      <ul>
+        <li>Spinach</li>
+        <li>Carrots</li>
+        <li>Bell Peppers</li>
+      </ul>
+    </article>
+    </body>
+  <footer>
+    Sam's Garden
+  </footer>
 </html>
